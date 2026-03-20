@@ -3,4 +3,8 @@ uvicorn==0.29.0
 python-multipart==0.0.9
 requests==2.31.0
 aiofiles==23.2.1
-pillow==10.3.0
+pillow==11.1.0
+reportlab==4.1.0
+spacy==3.7.4
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
