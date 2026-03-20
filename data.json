@@ -1,0 +1,70 @@
+{
+  "ingredients": {
+    "safe": [
+      "water", "salt", "sugar", "flour", "wheat flour", "rice", "oats",
+      "milk", "butter", "eggs", "olive oil", "sunflower oil", "vinegar",
+      "lemon juice", "tomato", "onion", "garlic", "ginger", "turmeric",
+      "cinnamon", "cardamom", "pepper", "cumin", "coriander", "cloves",
+      "honey", "maple syrup", "cocoa", "vanilla", "baking soda",
+      "baking powder", "yeast", "gelatin", "starch", "cornstarch",
+      "tapioca", "arrowroot", "soy sauce", "apple cider vinegar",
+      "coconut oil", "sesame oil", "almond", "cashew", "walnut",
+      "peanut", "chickpea", "lentil", "spinach", "carrot", "beetroot",
+      "apple", "banana", "orange", "mango", "pineapple", "strawberry",
+      "blueberry", "grape", "pomegranate", "guava", "papaya"
+    ],
+    "moderate": [
+      "sodium chloride", "maltodextrin", "modified starch", "pectin",
+      "carrageenan", "guar gum", "xanthan gum", "locust bean gum",
+      "sunflower lecithin", "soy lecithin", "citric acid", "malic acid",
+      "tartaric acid", "lactic acid", "ascorbic acid", "acetic acid",
+      "sodium bicarbonate", "calcium carbonate", "magnesium carbonate",
+      "mono and diglycerides", "sucrose", "fructose", "dextrose",
+      "glucose syrup", "caramel color", "natural flavor", "artificial flavor",
+      "cellulose", "inulin", "chicory root", "stevia", "erythritol",
+      "sorbitol", "xylitol", "mannitol", "polydextrose", "sodium citrate",
+      "potassium chloride", "calcium phosphate", "disodium phosphate",
+      "sodium acetate", "sodium lactate", "ferrous sulfate", "zinc oxide",
+      "niacinamide", "pyridoxine hydrochloride", "riboflavin",
+      "thiamine mononitrate", "folic acid", "vitamin d3", "vitamin e",
+      "beta carotene", "annatto", "paprika extract", "turmeric extract"
+    ],
+    "harmful": [
+      "high fructose corn syrup", "hfcs", "partially hydrogenated oil",
+      "trans fat", "sodium nitrate", "sodium nitrite", "potassium nitrate",
+      "bha", "bht", "tbhq", "propyl gallate", "sodium benzoate",
+      "potassium benzoate", "calcium benzoate", "sulfur dioxide",
+      "sodium sulfite", "potassium sulfite", "sodium metabisulfite",
+      "brilliant blue", "red 40", "yellow 5", "yellow 6", "red 3",
+      "blue 1", "blue 2", "green 3", "orange b", "red 2",
+      "aspartame", "acesulfame potassium", "acesulfame k", "saccharin",
+      "sucralose", "neotame", "advantame", "cyclamate",
+      "monosodium glutamate", "msg", "disodium inosinate",
+      "disodium guanylate", "autolyzed yeast extract",
+      "brominated vegetable oil", "bvo", "propylene glycol",
+      "carboxymethylcellulose", "polysorbate 80", "polysorbate 60",
+      "aluminum sulfate", "alum", "potassium bromate", "azodicarbonamide",
+      "calcium propionate", "sodium propionate", "propionic acid",
+      "silicon dioxide", "titanium dioxide", "mica"
+    ]
+  },
+  "diabetic_warnings": [
+    "sugar", "high fructose corn syrup", "hfcs", "glucose syrup",
+    "fructose", "dextrose", "sucrose", "maltodextrin", "modified starch",
+    "caramel color", "honey", "maple syrup", "aspartame", "saccharin",
+    "acesulfame potassium", "acesulfame k", "sucralose", "sorbitol",
+    "mannitol", "xylitol", "erythritol", "polydextrose", "inulin"
+  ],
+  "common_allergens": {
+    "gluten": ["wheat", "wheat flour", "barley", "rye", "oats", "malt", "spelt", "kamut"],
+    "dairy": ["milk", "butter", "cheese", "cream", "lactose", "whey", "casein", "ghee"],
+    "nuts": ["almond", "cashew", "walnut", "pecan", "pistachio", "hazelnut", "macadamia", "brazil nut"],
+    "peanuts": ["peanut", "groundnut", "peanut oil", "peanut butter"],
+    "soy": ["soy", "soya", "soybean", "soy lecithin", "sunflower lecithin", "tofu", "tempeh"],
+    "eggs": ["egg", "eggs", "albumin", "mayonnaise", "lecithin"],
+    "shellfish": ["shrimp", "crab", "lobster", "prawn", "crawfish", "barnacle"],
+    "fish": ["fish", "tuna", "salmon", "cod", "bass", "flounder", "anchovy", "sardine"],
+    "sesame": ["sesame", "sesame oil", "tahini", "sesame seed"],
+    "sulfites": ["sulfur dioxide", "sodium sulfite", "sodium metabisulfite", "potassium sulfite"]
+  }
+}
